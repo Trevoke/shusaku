@@ -11,35 +11,66 @@
     
     <!-- Compressed JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/js/foundation.min.js" crossorigin="anonymous"></script>
+    <style>        
+        body {
+            background-color: #210124; 
+            color: #efd9ce;
+        }
+        h1 {
+            color: #e56399;
+        }
+        h2 {
+            color: #725e54
+        }
+        a {
+            color: #5aaacf;
+        }
+        .primary {
+            color: #210124;
+        }
+        .secondary {
+            color: #efd9ce;
+        }
+        .tertiary {
+            color: #e56399;
+        }
+        .quarternary {
+            color: #725e54;
+        }
+        .quintary {
+            color: #5aaacf;
+        }
+    </style>
 </head>
-<body class="grid-container">
+<body class="grid-container grid-padding-x">
     <section>
         <header>        
             <h1>The Shusaku Study Project</h1>
         </header>
-        <article>
+        <article>            
             <h2>The key information</h2>
-            
-            <ul class="h5">
-                <li>What: The Shusaku Project</li>
-                <li>Why: To provide public-domain commentary of Shusaku games</li>
-                <li>When: May 2022 -&gt; ? (Estimated time to finish: 2027)</li>
-                <li>Who: Anyone at least 6k who can dedicate a few hours a week to this</li>
-                <li>How: A focused, disciplined study of Shusaku games, facilitated by my teacher, AGA 6d+, using katago as a basis</li>
-                <li>Where: <a href="https://discord.gg/BkFSWtEycY">Trevoke&#39;s Discord server</a></li>
-            </ul>
+            <div class="flex-container">
+                <ul class="h5 flex-child-auto">
+                    <li>What: Analyze Shusaku games every week</li>
+                    <li>Why: To provide public-domain commentary of Shusaku games</li>
+                    <li>When: May 2022 -&gt; ? (Estimated time to finish: 2027)</li>
+                    <li>Who: Anyone at least 6k who can dedicate a few hours a week to this</li>
+                    <li>How: A focused, disciplined study of Shusaku games, facilitated by my teacher, AGA 6d+, using katago as a basis</li>
+                    <li>Where: <a href="https://discord.gg/BkFSWtEycY">Trevoke&#39;s Discord server</a></li>
+                </ul>
+                
+                <div class="flex-child-auto">
+                    <img 
+                    src="https://ogs-forums.s3.amazonaws.com/original/2X/a/a8d68c23f38b93e3c70c439fc6fc35584d68d1b0.jpeg" 
+                    style="zoom: 0.3">
+                </div>
+            </div>
         </article>
     </section>
-    
-    <div class="media-object stack-for-small">
-        <img 
-        class="media-object-stack" 
-        src="https://ogs-forums.s3.amazonaws.com/original/2X/a/a8d68c23f38b93e3c70c439fc6fc35584d68d1b0.jpeg" 
-        style="zoom: 0.3">
-    </div>
-    
     <section>
-        <header>About me</header>
+        <header>
+            <h1>About me</h1>
+        </header>
         <article><p>Hi all, I&#39;m looking for folks who are interested in dedicating some time out of their week, for the next few years, to analyzing Shusaku games. The more folks who commit to the work, the lesser the work on any one individual. Let me explain!</p>
             
             <p>I&#39;m a niche streamer. I&#39;ve recently finished streaming reviews of the 151 Dosaku games we have. I recently decided to start reviewing every Shusaku game out there, chronologically. That&#39;s 471 games. I review two games, on average, every week, on my Sunday stream. Some games are shorter, of course, but with quick math you get to over four years of streams. I&#39;ve done four games so far, and it has occurred to me that reviewing Shusaku games is *difficult*. Which, I realize, probably doesn&#39;t surprise anyone.</p>
@@ -47,13 +78,12 @@
     </section>
     
     <section>
-        <header>What's in it for you</header>
+        <header><h1>What's in it for you</h1></header>
         
         <p>This takes me to the point of this post. I am looking for folks who are interested in studying the games together, as a group, and put together the synthesis of our work into a review. We can make this review public, and I can present some version of this review to the (admittedly small) audience on my Twitch stream.</p>
         
         <p>You might be thinking &quot;wow wow, you take all the credit for MY hard work?&quot; Well I&#39;m here to tell you, &quot;nah, man.&quot; ... Okay, I&#39;ll elaborate.</p>
         
-        <p>&nbsp;</p>
         
         <p>I am happy to credit all the folks who contributed to the analysis for each game they did contribute to. I will be presenting the results of the work (and putting in a good chunk of my own), but I will also be trying to present the games in a way that works for my stream. This means:</p>
         
@@ -75,7 +105,11 @@
     </section>    
     
     <section>
-        
+        <header>
+            <h1>
+                What the work will look like
+            </h1>
+        </header>
         <p>So, here&#39;s what the work is going to look like. We&#39;re going to make three passes for each game, one pass per week, using the core skills of the game of go. If you&#39;re not sure what those core skills are, my teacher will happily provide you with an introduction to these skills and what it means to analyze a game using each as a separate lens.</p>
         
         <p>Step 1: put game through katago with enough visits (10-20k visits per board position, probably), add relevant variations to SGF. For this step, my teacher has already volunteered.</p>
@@ -88,9 +122,9 @@
         
         <p>Step 5: put it all together! My plan involves a rotation. Every week, two games move to the next step. Which is to say, every week, two new games go through step 1, and when we&#39;re going full steam, every week, the reviews for two games are finished.</p>
         
-        <table class="u-full-width">
+        <table class="u-full-width hover unstriped" >
             <thead>
-                <tr>
+                <tr style="background: #210124; color: #efd9ce">
                     <th>Time</th>
                     <th>Katago</th>
                     <th>Positional Judgment</th>
@@ -102,30 +136,30 @@
                     <th>Stream!</th>
                 </tr>
             </thead>
-            <tbody>
-                <tr>
+            <tbody >
+                <tr style="background: #210124; color: #efd9ce">
                     <td>Week 1</td>
                     <td>Games 1+2</td>
                 </tr>
-                <tr>
+                <tr style="background: #210124; color: #efd9ce">
                     <td>Week 2</td>
                     <td>Games 3+4</td>
                     <td>Games 1+2</td>
                 </tr>
-                <tr>
+                <tr style="background: #210124; color: #efd9ce">
                     <td>Week 2, Saturday</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
                     <td>Games 1+2</td>
                 </tr>
-                <tr>
+                <tr style="background: #210124; color: #efd9ce">
                     <td>Week 3</td>
                     <td>Games 5+6</td>
                     <td>Games 3+4</td>
                     <td>&nbsp;</td>
                     <td>Games 1+2</td>
                 </tr>
-                <tr>
+                <tr style="background: #210124; color: #efd9ce">
                     <td>Week 3, Saturday</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
@@ -133,7 +167,7 @@
                     <td>&nbsp;</td>
                     <td>Games 1+2</td>
                 </tr>
-                <tr>
+                <tr style="background: #210124; color: #efd9ce">
                     <td>Week 4</td>
                     <td>Games 7+8</td>
                     <td>Games 5+6</td>
@@ -142,7 +176,7 @@
                     <td>&nbsp;</td>
                     <td>Games 1+2</td>
                 </tr>
-                <tr>
+                <tr style="background: #210124; color: #efd9ce">
                     <td>Week 4, Saturday</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
@@ -152,7 +186,7 @@
                     <td>&nbsp;</td>
                     <td>Games 1+2</td>
                 </tr>
-                <tr>
+                <tr style="background: #210124; color: #efd9ce">
                     <td>Week 4, Sunday</td>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
