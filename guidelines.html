@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html lang="en" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guidelines for SSP contributors</title>
+    <!-- Compressed CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/css/foundation.min.css" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap" rel="stylesheet">
+
+    <!-- Compressed JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/js/foundation.min.js" crossorigin="anonymous"></script>
+    <style>
+        body {
+            background-color: #efd9ce; 
+            color: #210124;
+            font-size: medium;
+            font-family: 'Source Serif Pro', serif;
+        }
+        h1 {
+            color: #725e54;
+            font-family: 'Source Serif Pro', serif;
+        }
+        h2 {
+            color: #e56399;
+            font-family: 'Source Serif Pro', serif;
+        }
+        h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+            font-family: 'Source Serif Pro', serif;
+        }
+        a {
+            color: #5a5acf;
+            font-weight: 600;
+        }
+        td, th {
+            background: #e56399; 
+            color: #efd9ce;
+        }
+        .primary {
+            color: #efd9ce;            
+        }
+        .secondary {
+            color: #210124;
+        }
+        .tertiary {
+            color: #e56399;
+        }
+        .quarternary {
+            color: #725e54;
+        }
+        .quintary {
+            color: #5aaacf;
+        }
+    </style>
+</head>
+
+<body class="grid-container grid-padding-x">
+    Consistency in comments is very important. Readers want to be able to expect certain meaningful symbols. Here is how the SSP will format its comments.
+    <ul>
+
+    
+    <li>Don't use the OGS draw tool, it's not compatible with other SGF clients</li>
+    <li>Write coordinates as <b>S11</b>, not s11</li>
+    <li>Write player colors as a single upper-case letter, e.g. <b>W</b>, not w, not white</li>
+    <li>Intersections marked with a triangle represent forcing move for the player whose turn it is</li>    
+    <li>Wrap your comments with (replace PJ by the correct analysis frame):<br/>
+        PJ<br/>-----</br/>
+    Your comments here<br/>
+    -----<br/>
+</li>
+</ul>
+</body>
+</html>
