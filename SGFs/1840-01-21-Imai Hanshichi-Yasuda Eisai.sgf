@@ -1,0 +1,431 @@
+(;FF[4]GM[1]CA[UTF-8]AP[q5go:2.1]
+SZ[19]
+PW[Imai Hanshichi]
+PB[Yasuda Eisai]
+WR[3d]
+BR[1d]
+KM[0.000000]
+DT[1840-01-21]
+RU[Japanese]
+RE[B+4.00]
+C[Shusaku Study Project contributors to Positional Judgment:
+
+- D-E
+- Itarios
+- Frozensoul
+- Trevoke
+
+Shusaku Study Project contributors to Direction of Play:
+
+- ggCowabunga
+- Trevoke
+
+Shusaku Study Project contributors to Reading:
+
+- Itarios
+- Trevoke]JD[Tenpo 10-12-17]KTV[1.0]
+;B[qd];W[dc];B[oc];W[po];B[co]
+C[PJ
+-----
+B contests development potential of D17 with C5.
+-----]
+;W[ep]
+C[PJ
+-----
+E4 played to avoid taisha and highlight bottom area of the board along with Q5
+-----
+
+]
+;B[dq]
+C[PJ
+-----
+B chooses profit over influence, deferring the contest of areas of the board. Without komi, B can afford to play patiently.
+-----]
+;W[eq]
+C[PJ
+-----
+W emphasizes bottom of the board as an area of influence.
+-----
+
+]
+;B[dr];W[iq]
+C[PJ
+-----
+B has effectively a settled corner at this point
+
+W has an undercut bottom side, so J3 isn't exactly grabbing a base, but J3 is making it harder for B to step between J3 and Q5.
+
+W is keeping options open for future exchanges
+
+J3 treats E4 lightly.
+-----]
+;B[ce]
+C[PJ
+-----
+Two corners left: top left and bottom right. Top left provides the simplest options for development. Again, B is patient.
+-----]
+;W[ch]
+C[PJ
+-----
+B ~ 25 points
+W -> 4
+
+Left side potential is diminished
+
+W plays consistently with Q5: we want the ability to exploit complications on this board, so we can't let B create insta-settled groups.
+-----]
+;B[cc]
+C[PJ
+-----
+B chooses simplicity: the onus is on W to do something coherent with their stones.
+-----]
+;W[cb]
+C[PJ
+-----
+W gets a base.
+B is stable: can make two eyes AND can run out.
+Now W needs to choose what to do with C12
+-----
+]
+;B[dd]
+C[PJ
+-----
+B is set up as desired on this board: a few stable groups from which fights can be weathered.
+Now Q3 is possible because all results are acceptable.
+The upcoming exchange needs to end in sente for W, otherwise B will get to really grow the top-right shimari and negate a lot of W's efforts up until now.
+-----
+]
+;W[ec]
+C[PJ
+-----
+W is consistent in his strategy of setting up for managing complications.
+-----
+]
+;B[bc];W[hc];B[pq]
+C[DOP
+-----
+The last corner: the least "simple" place on the board to create a stable, settled position. B steps in to continue his strategy. W has to choose: R3 to settle, or a move towards the left to remain consistent.
+
+Settling is unpleasant because it gives B an opportunity to extend from R16 in relative sente, and because it'll significantly weaken the J3 group.
+-----]
+;W[np];B[qo];W[qn];B[qp];W[pn]
+C[PJ
+-----
+W announces that the right side will be contested. B needs to choose: more profit, or contest right side?
+
+All of B's groups are settled.
+-----
+
+DOP
+-----
+B's moves on the right side aren't sente right now because W is thick.
+-----]
+;B[nq]
+C[PJ
+-----
+This is the weakest spot in W's shapes on this board.
+B is still choosing profit and yielding influence.
+-----]
+;W[mq];B[nr];W[qi]
+C[PJ
+-----
+B 41 points
+W ~15 points
+
+Gote.
+Too far from R6 to be called a base.
+This move aims at S16 in the future.
+-----]
+(;B[bb]
+C[PJ
+-----
+B now is alive, so now if W tries to seal, it'll just be slow.
+-----]
+;W[ck]
+C[PJ
+-----
+Fix last questionable area for W. Fuseki is now over.
+
+W has ~22 points
+B has ~42 points
+-----]
+;B[er]
+C[PJ
+-----
+B challenges C9's idea and takes a reverse-sente move (if W plays here, B must defend corner again).
+
+This move also challenges E4 being treated lightly, and now asks W what his development plan is.
+-----
+
+DOP
+-----
+W needs to consider the health of J3 and C9 in his response, as well as creating a consistent framework with his stones.
+-----]QKGV[5941:0.942246:6.790220:14.648600::remote]
+;W[gq];B[jc]
+C[PJ
+-----
+H17 is now W's weakest group, so extending to the big area in sente.
+-----]
+;W[qf]
+C[PJ
+-----
+W stabilizes the next-weakest area. Follow-up at R17 is enabled. This means W can now pincer in the top.
+
+W prevents B from playing at R13 and getting a double-wing formation.
+-----]
+(;B[ed]
+C[PJ
+-----
+B removes key way out / eye-shape point for W group
+B removes E15/D14 weaknesses for B's kosumi
+-----
+
+DOP
+-----
+B grows towards the center and pressures C12 (sets up cap at E12)
+-----
+]
+;W[fc];B[oe]
+C[PJ
+-----
+Now B protects against the R17 invasion and erases R14 / R11's usability towards the center.
+
+B has two areas of unresolved pressure: K17 and C5.
+-----]
+;W[og]
+C[PJ
+-----
+W needs to worry about converting areas of the center into territory now.
+-----]
+;B[oi]
+C[PJ
+-----
+B challenges all of W's stones and the entire strategy that W has employed so far.
+If B connects back, it's impossible for W to make up the points he's missing right now.
+-----]
+;W[pp]
+C[PJ
+-----
+Defend N4 (the most egregious weakness that B can use in conjunction with P11)
+-----]
+;B[qq]TR[ng][ph]
+C[PJ
+-----
+Forcing moves available for B
+-----]
+;W[of]
+C[PJ
+-----
+Must keep B separated
+-----
+
+DOP
+-----
+Lean on strong to attack weak
+
+Also starts to aim at K17 weakness and M17 invasion
+-----]
+;B[ne]
+C[PJ
+-----
+Reinforce K17 - now W is limited to L17 invasion.
+B has one thing to manage on this board: P11. W has ... More. A lot more. Thickness isn't alive.
+
+P11 is still easy to sacrifice
+-----]
+;W[mf]
+C[PJ
+-----
+Aiming to reduce B's top territory (re-enable M17) while preparing for a sandworm-like swallow of P11.
+-----]
+;B[mi]
+C[PJ
+-----
+N11 aims at O14 cut. Patient move, also shape-making move (dog, bamboo, J, etc. etc.)
+-----]
+;W[ld]
+C[PJ
+-----
+W attempts to counter-attack and split B. Game is all-or-nothing for W now.
+-----
+]QKGV[2743:0.954391:8.214940:15.417200::remote]
+(;B[je]
+C[PJ
+-----
+Keep W separated.
+
+B can still connect at M17.
+Threatens to seal with G15.
+-----
+
+Reading
+-----
+B can cut the knight's move directly but it leads to a more complicated game. B's move is the simplest idea that works (and is also the recommended AI move, conveniently).
+-----]QKGV[4215:0.942268:7.609990:15.549200::remote]
+;W[kf]
+C[PJ
+-----
+W plays L14 in sente first, keeps B split, removes cutting points in W shape.
+-----
+
+DOP
+-----
+W aims to G15 next, to prevent being sealed in.
+-----]
+;B[jf];W[ge]
+C[PJ
+-----
+Required, as indicated earlier.
+-----]
+;B[kh];W[kg];B[jg];W[lh];B[li];W[jh];B[ki];W[ih]
+C[PJ
+-----
+B can still connect at M18
+-----]
+;B[lb]
+C[PJ
+-----
+Now B only has one group to worry about. Does this sound familiar yet?
+-----]
+;W[jj];B[ll]
+C[PJ
+-----
+Connected to M11 and activates N4 cut
+-----
+Reading
+-----
+See variation to see N4 cut
+-----]
+(;W[nj];B[kk]
+C[PJ
+-----
+B keeps connection alive aggressively, limiting J12's growth, expanding open directions for L8
+-----]
+;W[mk];B[ji];W[ii];B[ij];W[jk];B[hj];W[gi]
+C[PJ
+-----
+prevents net at H13.
+J11 is cutting stones, W cannot afford to sacrifice them. 
+-----]
+;B[jl]
+C[PJ
+-----
+gets ahead of W K8
+-----]
+;W[ik];B[kj];W[hk];B[ni]
+C[PJ
+-----
+B group has 9 liberties. It's very safe now.
+-----]
+;W[rd];B[re];W[rf];B[qe]LB[km:A][pj:B]
+C[Peeping at A is a natural exchange. Connecting back at B is slightly better however. This is because white will get guaranteed profit, and black is still in danger. It also strengthens W's R14 area. ]
+(;W[km]
+C[Katago
+-----
+Score: B+5.1
+Win rate: B 75.6%
+Estimated point loss: 4.0
+-----
+ㅤ​]
+;B[oj];W[nl]
+(;B[lm]
+C[Katago
+-----
+Score: B+2.1
+Win rate: B 62.8%
+Estimated point loss: 3.0
+-----ㅤ​
+
+PJ
+-----
+Push is big, but black should press white down first. See variation.
+-----]QKGV[3261:0.979457:11.363000:14.966600::remote]
+;W[kd]
+C[Move 84: W L16
+Score: B+5.3
+Win rate: B 75.3%
+Estimated point loss: 3.2
+Predicted top move was Q9 (B+1.9).
+PV: WQ9 R12 S12 N13 O14 S11 S10 S13 T11
+Move was #19 according to policy  (0.16%).
+Top policy move was Q9 (36.7%).
+ㅤ​]QKGV[2237:0.984190:13.808700:15.946700::remote]
+;B[jd]QKGV[3438:0.983194:13.248500:15.675500::remote];W[pk]
+C[Interesting exchange..]QKGV[3528:0.984524:13.171900:15.310300::remote]
+;B[kn]QKGV[2724:0.983005:12.896900:15.368800::remote];W[jm]QKGV[2541:0.984217:12.739500:15.057300::remote];B[il]QKGV[1952:0.980505:13.218500:15.919500::remote];W[hl]QKGV[3037:0.984315:14.016500:15.371800::remote];B[im]QKGV[2789:0.981636:12.991100:15.650600::remote];W[jn]QKGV[2182:0.983095:12.727900:15.450200::remote];B[kl]QKGV[2809:0.982683:12.381800:15.277700::remote];W[ko]QKGV[1475:0.987925:12.280100:14.308200::remote]
+;B[ln]QKGV[3953:0.966342:11.562500:15.845300::remote];W[jo]QKGV[4481:0.968453:11.416700:15.354500::remote];B[ok]
+C[PJ
+-----
+Now B is alive - cut at M13 and turn at O9.
+And W just doesn't have enough points.
+-----]QKGV[6775:0.969604:11.507000:15.178600::remote]
+;W[ol];B[nk]
+C[Reading
+-----
+W cannot connect at N8, see variation.
+-----]
+(;W[gj];B[ml];W[se];B[rc];W[bn]LB[ad:5 pts][aj:11 pts][br:11 pts][fb:4 pts][fm:5 pts][ir:5 pts][nb:12 pts][rj:10 pts][rr:15 pts]
+C[PJ
+-----
+B is up 10 points: 43-33 or so. (conservative estimate, a less conservative estimate adds about 10 points to both scores)
+-----]QKGV[2924:0.989978:10.391000:11.149000::remote]
+;B[bo];W[cn];B[an]
+C[PJ
+-----
+W 41 points
+B 51 points
+double sente: maximize corner in sente before moving on
+-----]
+;W[am];B[ao];W[bl];B[do];W[rn];B[qj];W[qk];B[qh];W[ri];B[ph];W[rh];B[qg];W[pf];B[rg];W[sg];B[sd]
+;W[sf];B[mr];W[lq];B[fr];W[gr];B[ke]
+(;W[mh]
+C[W can't connect at M15.]
+;B[nm];W[md]
+C[Reading
+-----
+W threatens to disconnect K17
+-----]
+(;B[mb];W[sq];B[sr];W[so];B[rq];W[sp];B[qr];W[kc];B[kb];W[ib];B[jb];W[bf];B[dg];W[dh];B[be];W[cf]
+;B[df])
+(;B[];W[mb]
+(;B[mc];W[kb];B[kc];W[lc])
+(;B[kb];W[nb];B[ib])))
+(;W[le];B[mg]
+(;W[nf];B[lg])
+(;W[mh];B[lg];W[nh];B[lf])))
+(;W[ml];B[mg];W[nf];B[lg];W[mj];B[lf];W[ke];B[me]))
+(;B[pk];W[rk];B[lm]LB[pk:A][rk:B]
+C[Here black still plays m7 but gets A for B which is a good exchange for black.]))
+(;W[pj];B[mg];W[nf];B[lg];W[cn]))
+(;W[]
+C[If W passes ]QKGV[350:0.997569:21.233500:16.094900::remote]
+;B[mp]QKGV[1016:0.997555:20.597601:15.359700::remote]
+(;W[pk]
+C[AI recommended sequence for both players (with W passing, B is up 20)]QKGV[1165:0.997729:20.646200:15.140500::remote]
+;B[ok]QKGV[968:0.997749:20.389299:14.979800::remote];W[pj]QKGV[689:0.997684:20.609400:14.937200::remote];B[mg]QKGV[1060:0.997668:20.140301:14.850300::remote];W[nf]QKGV[872:0.997804:20.573601:14.579100::remote];B[cm]QKGV[340:0.997857:20.111200:14.515300::remote];W[bm]QKGV[281:0.997700:20.497400:14.589300::remote];B[cl]QKGV[342:0.997820:20.225201:14.503400::remote];W[bl]QKGV[681:0.997872:20.708599:14.437000::remote]
+;B[bn]QKGV[390:0.997772:20.405100:14.320200::remote];W[kl]QKGV[406:0.997995:20.659599:14.235900::remote];B[lm]QKGV[357:0.997899:20.443600:14.173000::remote];W[km]QKGV[398:0.998148:20.743299:14.003500::remote];B[ln]QKGV[202:0.998261:20.339100:13.964000::remote];W[dk]QKGV[223:0.998182:21.086100:13.882800::remote];B[jp]QKGV[97:0.998421:20.453100:13.595300::remote];W[jq]QKGV[195:0.998532:21.233700:13.080600::remote]
+;B[lp]QKGV[279:0.998460:20.970600:13.118400::remote];W[dn]QKGV[903:0.998455:21.386999:12.916400::remote];B[cn]QKGV[475:0.998514:21.125099:12.704000::remote];W[im]QKGV[435:0.998527:21.636000:12.506300::remote])
+(;W[lq]
+C[If W wants to keep the N3 stone (a decision which is a 3-point mistake)]QKGV[3033:0.998187:22.882601:15.448900::remote]
+;B[no]QKGV[720:0.998183:21.876600:14.877300::remote];W[op]QKGV[580:0.997980:24.617001:17.735001::remote];B[mo]QKGV[1836:0.997831:20.892300:15.255700::remote];W[nm]QKGV[1117:0.997224:23.399099:17.064199::remote];B[ko]QKGV[1309:0.994880:20.636700:17.058399::remote];W[lm]QKGV[1495:0.994993:20.841000:17.019100::remote];B[km]QKGV[1421:0.994456:20.578100:17.030800::remote];W[kl]QKGV[994:0.995144:20.691401:16.680401::remote]
+;B[kk]QKGV[1321:0.989846:17.625099:17.116400::remote];W[jl]QKGV[2680:0.991315:18.336100:16.790300::remote];B[mm]QKGV[6118:0.991388:18.322001:16.684500::remote];W[ln]QKGV[822:0.998451:25.143299:15.544000::remote];B[ml]QKGV[1034:0.998540:24.797701:15.203200::remote];W[mn]QKGV[1430:0.998763:30.003099:16.388100::remote];B[nn]QKGV[3504:0.999141:29.983400:15.444000::remote])
+(;W[no]
+C[Extending up is a 4-point mistake.]QKGV[1584:0.997854:24.198700:17.057800::remote]
+;B[lp]QKGV[423:0.998205:23.470800:15.828700::remote];W[ln]QKGV[264:0.998306:24.956800:16.336700::remote];B[kn]QKGV[89:0.998080:23.863701:16.284100::remote];W[km]QKGV[454:0.998537:25.515600:15.477100::remote];B[lm]QKGV[785:0.998594:25.354601:15.395200::remote]
+(;W[ko]QKGV[4051:0.998621:25.568199:15.257100::remote];B[mn]QKGV[1241:0.995405:17.454000:15.881300::remote];W[lo]QKGV[431:0.999080:28.114201:15.391200::remote];B[mo]QKGV[1697:0.999021:27.655300:15.371200::remote])
+(;W[mn]QKGV[789:0.998802:27.766800:15.694000::remote];B[kl]QKGV[541:0.998631:26.063000:15.939300::remote];W[jm];B[jl];W[im];B[il]QKGV[1391:0.998664:25.677401:15.921600::remote]))))
+(;B[me]QKGV[7133:0.906350:6.346370:15.500100::remote]
+(;W[lf]QKGV[3178:0.968480:8.658910:14.961600::remote];B[le]QKGV[3215:0.955839:8.373420:15.345400::remote];W[ke]QKGV[8632:0.962447:8.330840:14.833200::remote];B[kd]QKGV[4729:0.951040:8.356410:15.183500::remote];W[je]QKGV[16071:0.953727:8.517530:14.782700::remote];B[mp]QKGV[9194:0.952731:8.487970:14.774600::remote];W[lc]QKGV[10166:0.954768:8.639610:14.752000::remote];B[no]QKGV[3266:0.953402:8.395320:15.198300::remote]
+;W[nl]QKGV[3865:0.954681:8.569140:15.245200::remote])
+(;W[le]QKGV[11808:0.907595:6.225690:15.507500::remote];B[lf]
+C[This cut is a 3-point mistake]QKGV[4873:0.857166:5.125140:15.599000::remote]
+;W[kf]QKGV[15593:0.854759:5.003080:15.124900::remote];B[lg]QKGV[18400:0.855158:4.999640:15.019900::remote];W[lh]QKGV[21529:0.850022:4.877570:14.954500::remote];B[kg]QKGV[28013:0.848872:4.844030:14.883000::remote];W[mg]QKGV[32473:0.848285:4.820020:14.825700::remote];B[jg]QKGV[35309:0.846670:4.776350:14.795200::remote];W[jd]QKGV[34956:0.848055:4.776970:14.712600::remote])))
+(;B[ld]
+C[Local response to R14: prevent W pincer and territory erasure.]))
+(;B[]
+C[If B doesn't reinforce]
+;W[rd];B[rc];W[re];B[qe];W[qf];B[oe];W[pf];B[of])
+(;B[qg]
+C[If B reinforces]
+;W[rd];B[qe];W[qc];B[rb];W[qb];B[pc];W[rc];B[sb]
+C[W is dead locally]))
