@@ -493,7 +493,7 @@ W is beginning to lay claim to bottom area as potential territory
 
 Reading
 -----
-The bottom left corner has some endgame sequences starting with B3 which make W not locally alive. This is not a problem if W can get out.
+The bottom left corner is currently alive, but it's two moves short of being dead, so the corner is potentially a ko threat factory for B.
 -----]QKGV[20472:0.963361:8.77408:12.556::remote]
 (;B[er]
 C[Reading
