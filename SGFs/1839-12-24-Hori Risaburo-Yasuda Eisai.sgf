@@ -493,7 +493,7 @@ W is beginning to lay claim to bottom area as potential territory
 
 Reading
 -----
-The bottom left corner is currently alive, but it's two moves short of being dead, so the corner is potentially a ko threat factory for B.
+The bottom left corner is potentially a ko (see B playing at B3).
 -----]QKGV[20472:0.963361:8.77408:12.556::remote]
 (;B[er]
 C[Reading
@@ -664,10 +664,11 @@ C[B will defeat this idea. Setting up aji in the top right, peeping at H9 and th
 (;W[cq];B[pd];W[od];B[re];W[rf];B[pb];W[rd];B[rc];W[se];B[rb];W[pc];B[qc];W[ob];B[pa];W[gp];B[go]
 ;W[mk];B[oo];W[aq];B[lj])))
 (;B[bq]
+C[W cannot resist by descending at A4]
 (;W[ap];B[cq]
 C[W can not descend due to a shortage of liberties if B connects. This is a common endgame technique to create a ko (see 117 in main variation).])
-(;W[cq];B[ap];W[br];B[aq];W[ar];B[ao];W[dr];B[cs]
-C[Once B has W sealed in B will look at moves like B3 to kill W in the corner.])))
+(;W[cq];B[ap];W[br];B[cp]
+C[Now it's ko for life (W's variations left as exercise to reader)])))
 (;B[pp];W[qq];B[]
 C[Pass/tenuki]
 ;W[qp];B[ro]TR[pn]
